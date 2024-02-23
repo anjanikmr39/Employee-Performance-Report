@@ -118,6 +118,4 @@ For Hiring Employees, Company should use Random Forest since it have high accura
 5. The experience years in current role need to be revised while offering the employment to the new employees.
 
 
--------------
-For More Information
-Please review the full analysis in the [View This](https://app.powerbi.com/view?r=eyJrIjoiYmYxNDM2NjQtODA0Zi00Nzg4LWI5ODktNGY3MzhmYTM3ODE4IiwidCI6ImMzYTFlMjAyLWJiOWYtNDBhNy1iY2U1LTViZmYxZGEzMzJiYSJ9&embedImagePlaceholder=true).
+---------
