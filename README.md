@@ -73,7 +73,8 @@ The Data science project which is given here is an analysis of employee performa
 ### Department wise performances
 Employees of Development and Data Science Department have high Performance Rating compare to others.
 
-![image.png](attachment:image.png)
+![image](https://github.com/anjanikmr39/Employee-Performance-Report/assets/67219753/3ee2d3f6-75a4-475c-b43b-04decad5c840)
+
 
 ### Top 3 Important Factors affecting employee performance
 We Got three Most Important feature from Extra Tree Classifier are
@@ -82,7 +83,8 @@ We Got three Most Important feature from Extra Tree Classifier are
 * EmpLastSalaryHikePercent
 * YearsSinceLastPromotion
 
-![image.png](attachment:image.png)
+![image](https://github.com/anjanikmr39/Employee-Performance-Report/assets/67219753/d1f21c99-1ffc-4c33-9662-47853457f5db)
+
 
 ### A trained model which can predict the employee performance based on factors as inputs.
 1.   Decision Tree
@@ -104,7 +106,7 @@ We Got three Most Important feature from Extra Tree Classifier are
 
 For Hiring Employees, Company should use Random Forest since it have high accuracy compared to other models.
 
-![image.png](attachment:image.png)
+![image](https://github.com/anjanikmr39/Employee-Performance-Report/assets/67219753/5008fdcb-2eb1-45e7-815c-6119a9b39410)
 
 --------
 ### Recommendations to improve the employee performance based on insights from analysis.
@@ -115,3 +117,7 @@ For Hiring Employees, Company should use Random Forest since it have high accura
 4. Give good Salary Hike to Deserving Candidates for Better Performance.
 5. The experience years in current role need to be revised while offering the employment to the new employees.
 
+
+-------------
+For More Information
+Please review the full analysis in the [View This](https://app.powerbi.com/view?r=eyJrIjoiYmYxNDM2NjQtODA0Zi00Nzg4LWI5ODktNGY3MzhmYTM3ODE4IiwidCI6ImMzYTFlMjAyLWJiOWYtNDBhNy1iY2U1LTViZmYxZGEzMzJiYSJ9&embedImagePlaceholder=true).
